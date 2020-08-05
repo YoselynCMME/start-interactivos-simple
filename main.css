@@ -27,13 +27,13 @@ body{
     color: var(--blanco);
 }
 .container {
-    padding-top:10%;
+    padding-top:2%;
 }
 #btnAction {
     margin-top:2rem;
     font-family: var(--fuenteMontAlt);
     background-color: var(--rojoObscuro);
-    width: 200px;
+    width: 100%;
     color:var(--blanco);
     padding: 1rem;
     font-size: 1.6rem;
